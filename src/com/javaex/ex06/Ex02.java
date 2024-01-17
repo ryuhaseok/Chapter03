@@ -25,6 +25,8 @@ public class Ex02 {
 		
 		System.out.println("--------------------------");
 		
+		
+		//문자열 나누기
 		String[] sArray = a.split(",");
 		for(int i=0; i<sArray.length; i++) {
 			System.out.println(sArray[i]);
